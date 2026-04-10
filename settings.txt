@@ -1,5 +1,5 @@
 # put your IP address or domain name here
-ADDRESS=192.168.1.xx
+ADDRESS=172.20.10.8
 
 # this is the port that you use in the patcher
 LOCATOR_PORT=8080
