@@ -2,7 +2,7 @@
 ADDRESS=172.20.10.8
 
 # this is the port that you use in the patcher
-LOCATOR_PORT=8080
+LOCATOR_PORT=5900
 
 # you do not need to do anything with these
 API_PORT=8088
